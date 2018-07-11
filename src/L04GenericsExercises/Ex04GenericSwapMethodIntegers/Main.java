@@ -1,4 +1,4 @@
-package L04GenericsExercises.Ex05GenericSwapMethodIntegers;
+package L04GenericsExercises.Ex04GenericSwapMethodIntegers;
 
 import java.io.BufferedReader;
 import java.io.IOException;
