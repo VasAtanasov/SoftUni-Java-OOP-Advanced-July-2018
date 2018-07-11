@@ -14,6 +14,6 @@ public class Box<T extends Comparable<T>> implements Comparable<Box<T>> {
 
     @Override
     public int compareTo(Box<T> other) {
-        return element.compareTo(other.element);
+        return this.element.compareTo(other.element);
     }
 }
