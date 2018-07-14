@@ -1,10 +1,11 @@
 package L05IteratorsAndComparators.Ex02Library;
 
-import java.util.Iterator;
+        import java.util.Iterator;
 
 public class Library<T> implements Iterable<T> {
     private T[] ts;
 
+    @SafeVarargs
     public Library(T... ts) {
         this.ts = ts;
     }
