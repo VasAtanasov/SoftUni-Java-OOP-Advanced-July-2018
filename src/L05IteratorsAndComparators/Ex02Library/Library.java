@@ -1,13 +1,13 @@
 package L05IteratorsAndComparators.Ex02Library;
 
-        import java.util.Iterator;
+import java.util.Iterator;
 
 public class Library<T> implements Iterable<T> {
-    private T[] ts;
+    private T[] books;
 
     @SafeVarargs
-    public Library(T... ts) {
-        this.ts = ts;
+    public Library(T... books) {
+        this.books = books;
     }
 
     @Override
@@ -20,12 +20,12 @@ public class Library<T> implements Iterable<T> {
 
         @Override
         public boolean hasNext() {
-            return this.count < ts.length;
+            return this.count < books.length;
         }
 
         @Override
         public T next() {
-            return ts[count++];
+            return books[count++];
         }
     }
 }
