@@ -23,10 +23,10 @@ public class Engine {
             String tokens[] = input.toUpperCase().split("\\s+");
             this.dispatchCommand(tokens);
         }
-//
-//        coffeeMachine
-//                .coffeesSold()
-//                .forEach(System.out::println);
+
+        coffeeMachine
+                .coffeesSold()
+                .forEach(System.out::println);
     }
 
 

@@ -9,10 +9,6 @@ public enum Coin {
         this.value = value;
     }
 
-    Coin() {
-        this.value = 0;
-    }
-
     public int getValue() {
         return this.value;
     }
