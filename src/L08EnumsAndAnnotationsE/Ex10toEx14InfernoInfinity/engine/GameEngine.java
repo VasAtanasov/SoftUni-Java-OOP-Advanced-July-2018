@@ -1,7 +1,7 @@
-package L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.engine;
+package L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.engine;
 
-import L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.contracts.*;
-import L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.enums.Command;
+import L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.contracts.*;
+import L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.enums.Command;
 
 import java.io.IOException;
 

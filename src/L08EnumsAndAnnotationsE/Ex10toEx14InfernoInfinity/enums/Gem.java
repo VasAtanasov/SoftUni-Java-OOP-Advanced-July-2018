@@ -1,4 +1,4 @@
-package L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.enums;
+package L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.enums;
 
 public enum Gem {
     RUBY(7, 2, 5), EMERALD(1, 4, 9), AMETHYST(2, 8, 4);

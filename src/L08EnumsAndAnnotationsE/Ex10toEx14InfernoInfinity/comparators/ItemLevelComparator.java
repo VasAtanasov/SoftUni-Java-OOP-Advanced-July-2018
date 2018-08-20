@@ -1,6 +1,6 @@
-package L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.comparators;
+package L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.comparators;
 
-import L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.entities.Weapon;
+import L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.entities.Weapon;
 
 import java.util.Comparator;
 

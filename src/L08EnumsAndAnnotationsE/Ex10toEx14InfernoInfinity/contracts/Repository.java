@@ -1,4 +1,4 @@
-package L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.contracts;
+package L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.contracts;
 
 public interface Repository<T> {
 

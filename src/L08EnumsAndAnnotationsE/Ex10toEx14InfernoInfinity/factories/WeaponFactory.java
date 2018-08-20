@@ -1,7 +1,7 @@
-package L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.factories;
+package L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.factories;
 
-import L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.entities.Weapon;
-import L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.enums.WeaponType;
+import L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.entities.Weapon;
+import L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.enums.WeaponType;
 
 public class WeaponFactory {
     private WeaponFactory() {

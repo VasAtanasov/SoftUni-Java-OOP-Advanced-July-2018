@@ -1,4 +1,4 @@
-package L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.enums;
+package L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.enums;
 
 public enum WeaponType {
     AXE(5, 10, 4), SWORD(4, 6, 3), KNIFE(3, 4, 2);

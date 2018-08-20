@@ -1,8 +1,8 @@
-package L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.entities;
+package L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.entities;
 
-import L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.annotatios.VersionControl;
-import L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.enums.Gem;
-import L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.enums.WeaponType;
+import L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.annotatios.VersionControl;
+import L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.enums.Gem;
+import L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.enums.WeaponType;
 
 import java.util.Arrays;
 import java.util.Objects;

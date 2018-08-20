@@ -1,8 +1,8 @@
-package L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.repositories;
+package L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.repositories;
 
-import L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.comparators.ItemLevelComparator;
-import L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.contracts.Repository;
-import L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.entities.Weapon;
+import L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.comparators.ItemLevelComparator;
+import L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.contracts.Repository;
+import L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.entities.Weapon;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

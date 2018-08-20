@@ -1,4 +1,4 @@
-package L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.annotatios;
+package L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.annotatios;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

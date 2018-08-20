@@ -1,6 +1,6 @@
-package L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.io;
+package L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.io;
 
-import L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.contracts.InputReader;
+import L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.contracts.InputReader;
 
 import java.io.BufferedReader;
 import java.io.IOException;

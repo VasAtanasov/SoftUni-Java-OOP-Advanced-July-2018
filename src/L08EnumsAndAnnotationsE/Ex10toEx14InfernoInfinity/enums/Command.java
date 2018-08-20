@@ -1,4 +1,4 @@
-package L08EnumsAndAnnotationsE.Ex09toEx14InfernoInfinity.enums;
+package L08EnumsAndAnnotationsE.Ex10toEx14InfernoInfinity.enums;
 
 public enum Command {
     END, CREATE, ADD, REMOVE, COMPARE, PRINT, AUTHOR, REVISION, DESCRIPTION, REVIEWERS;
